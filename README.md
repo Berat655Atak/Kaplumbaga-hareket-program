@@ -2,9 +2,9 @@
 
 Bu program algoritmalar ve programlamaya giriş dersi dönem sonu proje ödevi için oluşturulmuştur.
 
-Programın kullanımı için gerekli kaynak.txt dosyası dosya içerisinde bulunuyor. cizim.txt dosyası da yine proje dosyası içerisinde oluşturulacaktır.
+Programın kullanımı için gerekli kaynak.txt dosyası dosya içerisinde bulunuyor. cizim.txt dosyası da yine proje dosyası içerisinde oluşturulacaktır. Proje raporunda başka kaynak.txt örnekleri de bulunmaktadır. İsterseniz onları da test edebilirsiniz.
 
-Not:Projenin çalışabilmesi için açılan projede "Edit Configurations" sekmesine girip "Working Directory" kısmında klasör seçmeniz gerekmektedir. Bizim projemizde zaten kaynak ve çizim dosyaları projenin içerisinde bulunduğu için lütfen proje dosyasını seçiniz. (Örnek dosya konumu: C:/Users/kullanici/CLionProjects/untitled4)
+Not:Projenin çalışabilmesi için açılan projede "Edit Configurations" sekmesine girip "Working Directory" kısmında klasör seçmeniz gerekmektedir. Bizim projemizde zaten kaynak ve çizim dosyaları projenin içerisinde bulunduğu için lütfen proje dosyasını seçiniz. (Örnek dosya konumu: C:/Users/kullanici/Downloads/Kaplumbaga-hareket-program-master)
 
 Projeyi hazırlayanlar:
 - Berat Atak - 25181616006
